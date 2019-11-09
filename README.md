@@ -1,5 +1,4 @@
-# python
-Multiplication  times table
+# python for multiplication times table
 for i in range(1,10):
     print(i,end='')
     for j in range(1,10):
